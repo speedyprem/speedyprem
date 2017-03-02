@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+ <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>  
+<body ng-app="">
+    <div class="container">
+        <h1 class="text-center">How to validate a form using angularjs</h1>
+        <h3 class="text-center">Try leaving the input field blank:</h3>
+        <form name="myForm" class="form-horizontal">
+            <p>Name: <input name="myName" class="form-control" ng-model="myName" required>
+            <span style="color: red;" ng-show="myForm.myName.$touched && myForm.myName.$invalid">Please enter the name.</span>
+            </p>
+
+            <p>Email: <input name="email" class="form-control" ng-model="email" required>
+            <span style="color: red;" ng-show="myForm.email.$touched && myForm.email.$invalid">Please enter the email.</span>
+            </p>
+
+            <p>Address: <input name="myAddress" class="form-control" ng-model="myAddress" required>
+            <span style="color: red;" ng-show="myForm.myAddress.$touched && myForm.myAddress.$invalid">Please enter the address.</span>
+            </p>
+        </form>
+    </div>
+</body>
+</html>
