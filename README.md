@@ -19,8 +19,7 @@
 I am passionate about web development and hold 6+ years of experience in web development which mainly includes PHP, MySQL, JavsCript and WordPress development. 
 
 ### Learning
-<img src="https://img.icons8.com/color/48/000000/graphql.png" title="GraphQL"/>
-<img src="https://img.icons8.com/plasticine/48/000000/react.png" title="React JS"/>
+<img src="https://img.icons8.com/color/48/000000/graphql.png" title="GraphQL"/><img src="https://img.icons8.com/plasticine/48/000000/react.png" title="React JS"/>
 
 ### Languages and Tools
 <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" title="WordPress"/><img src="https://img.icons8.com/color/50/000000/javascript.png" title="JavaScript"/>
