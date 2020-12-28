@@ -30,6 +30,3 @@ I am passionate about web development and hold 6+ years of experience in web dev
 <img src="https://img.icons8.com/color/48/000000/mysql.png" title="MySQL" />
 <img src="https://img.icons8.com/color/48/000000/npm.png" title="NPM" />
 <img src="https://img.icons8.com/doodle/48/000000/console--v2.png" title="Bash Scripting"/>
-
-
-#### Thank You-🙏🏼
