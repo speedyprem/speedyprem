@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Prem!](https://www.freewebmentor.com)
+### Hi there 👋, I'm [Prem Tiwari](https://www.freewebmentor.com)
 
 <br/>
 <a href="https://twitter.com/thepremtiwari">
