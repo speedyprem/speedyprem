@@ -1,8 +1,6 @@
-<img src="https://www.premtiwari.in/wp-content/uploads/2021/01/135547846_3812252805486479_1396225501944465313_o.jpg__nc_cat103ccb2_nc_sid8bfeb9_nc_ohc24HREXOLJaIAX-i2OE4_nc_htscontent.fblr8-1-e1610901499781.jpg" alt="profile" />
-
 ### Hi there 👋, I'm [Prem Tiwari](https://www.premtiwari.in)
 
-Prem Tiwari is a self-taught full-stack developer from India. He is passionate about web development on PHP, MySQL, JavsCript and WordPress. A part from this he is a WordCamp Speaker, WordCamp Organizer, WordPress Meetup Organizer, and a regular contributor to the WordPress community.
+Prem Tiwari is a self-taught full-stack developer from India. He is passionate about web development on PHP, MySQL, JavsCript and WordPress. A part from this he is a WordCamp Speaker, WordCamp Organizer, <a href="https://www.meetup.com/bengaluruwordpress/members/?op=leaders"> WordPress Meetup Organizer</a>, and a regular <a href="https://profiles.wordpress.org/freewebmentor/"> contributor</a> to the WordPress community.
 
 #### You can follow him on: ↓
 
