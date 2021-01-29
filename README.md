@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm [Prem Tiwari](https://www.premtiwari.in)
 
-Prem Tiwari is a self-taught full-stack developer from India. He is passionate about web development on PHP, MySQL, JavsCript and WordPress. A part from this he is a WordCamp Speaker, WordCamp Organizer, <a href="https://www.meetup.com/bengaluruwordpress/members/?op=leaders"> WordPress Meetup Organizer</a>, and a regular <a href="https://profiles.wordpress.org/freewebmentor/"> contributor</a> to the WordPress community.
+Prem Tiwari is a self-taught full-stack developer from India. He is passionate about web development on PHP, MySQL, JavsCript and WordPress. Apart from this he is a WordCamp Speaker, WordCamp Organizer, <a href="https://www.meetup.com/bengaluruwordpress/members/?op=leaders"> WordPress Meetup Organizer</a>, and a regular <a href="https://profiles.wordpress.org/freewebmentor/"> contributor</a> to the WordPress community.
 
 #### You can follow him on: ↓
 
