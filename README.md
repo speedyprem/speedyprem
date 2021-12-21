@@ -2,8 +2,6 @@
 
 Prem Tiwari is a self-taught full-stack developer from India. He is passionate about web development on PHP, MySQL, JavsCript and WordPress. Apart from this he is a WordCamp Speaker, WordCamp Organizer, <a href="https://www.meetup.com/bengaluruwordpress/members/?op=leaders"> WordPress Meetup Organizer</a>, and a regular <a href="https://profiles.wordpress.org/freewebmentor/"> contributor</a> to the WordPress community.
 
-![BigTallJosh's github stats](https://github-readme-stats.vercel.app/api?username=speedyprem&show_icons=true&count_private=true&hide=stars,issues&theme=dark)
-
 ### You can follow me : ↓
 
 <a href="https://facebook.com/thepremtiwari">
