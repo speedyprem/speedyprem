@@ -4,7 +4,7 @@ Prem Tiwari is a self-taught full-stack developer from India. He is passionate a
 
 #### You can follow me : ↓
 
-<a href="https://facebook.com/premtiwari03">
+<a href="https://facebook.com/thepremtiwari">
   <img align="left" title="Follow me Facebook" alt="Prem Tiwari| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://twitter.com/thepremtiwari">
