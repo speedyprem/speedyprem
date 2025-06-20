@@ -4,6 +4,9 @@
 
 He holds great experience when it comes to scaled WordPress projects which caters the need for big enterprise clients on WordPress VIP-GO platform. His passion for badminton and a healthy lifestyle translates into his disciplined and energetic approach to problem-solving in his work.
 
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/4a01e601-482e-4960-9c6e-b30260d38357" />
+
+
 #### You can follow me : ↓
 
 <a href="https://facebook.com/thepremtiwari">
