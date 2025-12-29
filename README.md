@@ -1,9 +1,8 @@
 ### Hi there 👋, I'm [Prem Tiwari](https://www.premtiwari.in)
 
-<a href="https://www.premtiwari.in/">Prem Tiwari</a> is a self-taught full-stack developer from India. He is a passionate advocate of open source technology, with over 10+ years of experience in the WordPress domain. Professionally he resides in silicon valley of India, Bengaluru and works with News Corp India as Lead Software Engineer. His contributions to the WordPress community are significant, and he boasts extensive experience in crafting custom themes and plugins, as well as excelling in performance optimization and enhancing security measures.
+<a href="https://www.premtiwari.in/">**Prem Tiwari**</a> is a self-taught full-stack developer from India. He is a passionate advocate of open source technology, with over 11+ years of experience in the WordPress domain. Professionally he resides in silicon valley of India, Bengaluru and works with News Corp India as Lead Software Engineer. His contributions to the WordPress community are significant, and he boasts extensive experience in crafting custom themes and plugins, as well as excelling in performance optimization and enhancing security measures.
 
 He holds great experience when it comes to scaled WordPress projects which caters the need for big enterprise clients on WordPress VIP-GO platform. His passion for badminton and a healthy lifestyle translates into his disciplined and energetic approach to problem-solving in his work.
-
 
 #### You can follow me : ↓
 
